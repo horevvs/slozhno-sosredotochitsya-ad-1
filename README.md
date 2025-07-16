@@ -1,1 +1,1 @@
-https://github.com/yandex-praktikum/slozhno-sosredotochitsya-ad
+https://github.com/horevvs/slozhno-sosredotochitsya-ad
