@@ -1,1 +1,1 @@
-ввв
+https://github.com/yandex-praktikum/slozhno-sosredotochitsya-ad
