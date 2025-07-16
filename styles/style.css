@@ -3,3 +3,11 @@
 .page {
   /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
 }
+
+
+
+body {
+  background-image: var(--background-image);
+  /* background-color: var(--background-color); */
+  color: var(--text-color);
+}
